@@ -1,7 +1,5 @@
 # shuwen-ms
 https://github.com/shuwenhe/shuwen-ms
-# shuwen-go1
-https://github.com/shuwenhe/shuwen-go1
 # 哔哩哔哩
 https://space.bilibili.com/407705719
 # 西瓜视频
